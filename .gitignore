@@ -1,0 +1,16 @@
+.idea/*
+*.iml
+*.ipr
+.project
+.classpath
+target/
+*.orig
+local/
+
+.DS_Store
+!.idea/codeStyleSettings.xml
+!.idea/runConfigurations
+!.idea/codeStyles
+
+.factorypath
+.settings/*
